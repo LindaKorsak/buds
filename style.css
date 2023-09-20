@@ -1,0 +1,155 @@
+body {
+    font-family: 'League Spartan', sans-serif;
+}
+
+.header-container {
+    display: flex;
+    width: 1440px;
+    padding-top: 50px;
+    padding-left: 130px;
+    padding-right: 30px;
+    padding-bottom: 130px;
+}
+
+.logo {
+    margin-bottom: 50px;
+    font-size: 24px;
+    line-height: 45px;
+    font-weight: 400;
+}
+
+.header-subtitle {
+    margin-bottom: 30px;
+    font-size: 230px;
+    line-height: 230px;
+}
+
+.header-discription {
+    margin-bottom: 50px;
+    font-size: 28px;
+    line-height: 50px;
+    font-weight: 300;
+}
+
+.price-wrapper {
+    display: flex;
+}
+
+.buy-now {
+    display: block;
+    width: 280px;
+    height: 80px;
+    font-weight: 300;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    font-size: 32px;
+    line-height: 80px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.price {
+    width: 145px;
+    height: 80px;
+    font-weight: 300;
+    background-color: white;
+    text-decoration: none;
+    font-size: 32px;
+    line-height: 80px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.header-img {
+    display: block;
+    width: 750px;
+}
+
+.buds_full {
+    width: 100%;
+}
+
+.popular-title {
+    margin-top: 100px;
+    text-align: center;
+    font-size: 24px;
+    line-height: 45px;
+    font-weight: 300;
+}
+
+.models-title {
+    margin-top: -10px;
+    margin-bottom: 40px;
+    text-align: center;
+    font-size: 72px;
+    line-height: 80px;
+    font-weight: 400;
+}
+
+.item-wrapper {
+    margin: 0 auto;
+    width: 500px;
+}
+
+.item-img-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+    height: 550px;
+    margin-bottom: 65px;
+}
+
+.item1-title {
+    margin-bottom: 18px;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+}
+
+.item1-discription {
+    text-align: center;
+    font-size: 28px;
+    font-weight: 300;
+    line-height: 50px;
+    width: 500px;
+    margin-bottom: 50px;
+}
+
+.learn-more {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.learn-more-link {
+    width: 280px;
+    height: 80px;
+    font-weight: 300;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    font-size: 32px;
+    line-height: 80px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.footer-title {
+    display: flex;
+    margin-bottom: -50px;
+    width: 1440px;
+    padding-top: 50px;
+    padding-left: 130px;
+    padding-right: 30px;
+    padding-bottom: 130px;
+    font-size: 250px;
+    font-weight: 300;
+    line-height: 230px;
+}
+
+.footer-img {
+    width: 100%
+}
